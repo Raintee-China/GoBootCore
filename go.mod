@@ -1,4 +1,4 @@
-module GoBootCore
+module github.com/Raintee-China/GoBootCore
 
 go 1.24.5
 
